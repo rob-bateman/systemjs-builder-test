@@ -4,7 +4,7 @@ System.config({
     "npm:*": "jspm_packages/npm/*"
   },
   bundles: {
-    "node_modules/dist/awayjs-core.js": ["awayjs-core/lib/utils/getTimer"]
+    "node_modules/awayjs-core/dist/awayjs-core.js": ["awayjs-core/lib/utils/getTimer"]
   },
   packages: {
     "src": {
